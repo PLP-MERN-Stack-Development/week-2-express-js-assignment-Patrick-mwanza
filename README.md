@@ -182,3 +182,6 @@ MONGO_URI=mongodb://localhost:27017/productdb
 
 # Server port
 PORT=3000
+
+<img width="888" alt="image" src="https://github.com/user-attachments/assets/259000e8-11bd-4c0d-95f0-fa7df8cfdc98" />
+
