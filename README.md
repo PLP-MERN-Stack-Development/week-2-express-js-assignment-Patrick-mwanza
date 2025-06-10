@@ -1,4 +1,5 @@
-#Product API
+# Product API
+
 ## This is a simple RESTful API for managing products, built with Node.js, Express, and MongoDB.
 
 ## Features
@@ -13,12 +14,13 @@ Update a product by ID
 Delete a product by ID
 
 ##  Getting Started
-### Prerequisites
+## Prerequisites
 Node.js installed
 
 MongoDB installed and running locally or on a cloud service (MongoDB Atlas)
 
 Installation
-Clone this repository:
-git clone <>
-cd <repository-folder>
+
+## Clone this repository:
+git clone <https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-Patrick-mwanza.git>
+cd <cd week-2-express-js-assignment-Patrick-mwanza>
